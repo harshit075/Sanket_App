@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "464509388731",
+    "firebase_url": "https://arogyasetuner-default-rtdb.firebaseio.com",
+    "project_id": "arogyasetuner",
+    "storage_bucket": "arogyasetuner.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:464509388731:android:9163beed8d2e0be965669e",
+        "android_client_info": {
+          "package_name": "com.example.arogyasetuner"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0_-8xz9NLF-igTosNnbkHDgR8o5-cFEo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
