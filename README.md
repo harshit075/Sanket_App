@@ -1,14 +1,15 @@
-###🚨 SANKET App
-#Real-Time Alerts for Safe Water & Safer Communities
-###📌 Overview
+**🚨 SANKET App**
+Real-Time Alerts for Safe Water & Safer Communities
 
-#SANKET is a smart community health monitoring and early warning mobile application designed to prevent water-borne disease outbreaks in rural and flood-prone regions of India.
+**📌 Overview**
+
+**SANKET** is a smart community health monitoring and early warning mobile application designed to prevent water-borne disease outbreaks in rural and flood-prone regions of India.
 
 The app acts as the human interface layer of the SANKET ecosystem—bridging villagers, ASHA workers, and health authorities with real-time data, alerts, and decision-making tools.
 
 Built in alignment with Viksit Bharat 2047, the SANKET App transforms reactive healthcare into predictive, preventive public health governance.
 
-#🎯 Problem Statement
+**🎯 Problem Statement**
 
 Every year, rural India—especially flood-prone regions—faces recurring outbreaks of:
 
